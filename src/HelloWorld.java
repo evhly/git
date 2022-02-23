@@ -8,5 +8,4 @@ public class HelloWorld {
         String name = scnr.next();
         System.out.println("hello " + name);
     }
-
 }
